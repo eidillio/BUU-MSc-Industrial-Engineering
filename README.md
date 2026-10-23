@@ -16,7 +16,12 @@ Simulation modeling, stochastic systems, statistical analysis, and computational
 
 Data preprocessing, exploratory data analysis, classification, clustering, and machine learning techniques.
 
-📁 `02-Data-Mining`
+📁 [`02-Data-Mining`](./02-Data-Mining/)
+
+#### 📊 Assignments
+
+- **[Assignment 01 — Italian Airbnb Dataset](./02-Data-Mining/Assignment-01/)**  
+  Dataset Selection and Literature Review | In Progress
 
 ### 3. Scheduling
 
